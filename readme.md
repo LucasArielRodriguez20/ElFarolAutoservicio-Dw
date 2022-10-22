@@ -23,9 +23,8 @@ El proyecto consiste en un E-commerce para un autoservicio de productos envasado
 
 ## Links importantes
 
-- [Proyecto en el servidor](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Preview en Git pages](https://github.com/matiassingers/awesome-readme)
-- [Mi Repositorio](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Proyecto en el servidor](elfarolautoservicio.000webhostapp.com)
+- [Mi Repositorio](https://github.com/LucasArielRodriguez20/ElFarolAutoservicio-Dw.git)
 
 ## Autor
 
