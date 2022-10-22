@@ -25,6 +25,7 @@ El proyecto consiste en un E-commerce para un autoservicio de productos envasado
 
 - [Proyecto en el servidor](https://elfarolautoservicio.000webhostapp.com)
 - [Mi Repositorio](https://github.com/LucasArielRodriguez20/ElFarolAutoservicio-Dw.git)
+- [Proyecto en el servidor netlifly](https://elfarolautoservicio.netlify.app)
 
 ## Autor
 
